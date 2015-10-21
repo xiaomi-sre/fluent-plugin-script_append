@@ -32,7 +32,7 @@ cp out_script_append.rb /etc/td-agent/plugin/
 </match>
 ```
 ```
-##tmp.sh
+##/tmp/a.sh
 echo "start $1 end"
 ```
 # testing
